@@ -10,7 +10,6 @@ Ahalia School of Engineering and Technology
 
 ## Tasks Completed
 
-- Installed Visual Studio Code
 - Installed Git
 - Installed Google Chrome
 - Installed required VS Code extensions
